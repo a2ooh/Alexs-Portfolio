@@ -10,7 +10,7 @@ If you would like to contact me, the best way is to reach me is through LinkedIn
 ##### [Analysis of BTC and ETH Price Changes](https://github.com/alejandroarellano1/Alexs-Portfolio/blob/main/BTC_ETH_Prices_Analysis.ipynb)
 - Exploratory analysis, data cleaning, and visualization using Pandas, Numpy, Seaborn, and Matplotlib in Python. 
 
-##### [Analysis of Worldwide Video Games Sales]
+##### [Analysis of Worldwide Video Games Sales](https://github.com/alejandroarellano1/Alexs-Portfolio/blob/main/Analysis-of-Worldwide-Video-Game-Sales.pdf)
 
 ##### [Prediciton of International Bittering Units of Beer using Box-Cox and Gamma]
 
