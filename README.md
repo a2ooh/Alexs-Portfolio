@@ -12,9 +12,11 @@ If you would like to contact me, the best way is to reach me is through LinkedIn
 
 ##### [Analysis of Worldwide Video Games Sales](https://github.com/alejandroarellano1/Alexs-Portfolio/blob/main/Analysis-of-Worldwide-Video-Game-Sales.pdf)
 - Analysis of worldwide video game sales by region, console, and genre. 
+- Completed in R
 
 ##### [Prediciton of International Bittering Units of Beer using Box-Cox and Gamma](https://github.com/alejandroarellano1/Alexs-Portfolio/blob/main/Analysis%20of%20Beer%20IBU%20with%20Gamma%20and%20Box-Cox.pdf)
 - Predictive analysis of IBU value for specific beer profile based on Box-Cox transformation and Gamma regression
+- Completed in R
 
 
 
