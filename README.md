@@ -25,7 +25,7 @@ If you would like to contact me, the best way is to reach me is through my [Link
 
 ##### [Analysis of Worldwide Video Games Sales](https://github.com/alejandroarellano1/Alexs-Portfolio/blob/main/Analysis-of-Worldwide-Video-Game-Sales.pdf)
 **Description:** The data was obtained through Kaggle.com and contains 16,598 observations and 11 variables where each observation represents a unique video game given worldwide sales were greated that 100,000 copies in a given time period.     
-**Skills:** Data cleaning, exploratory analysis, data analysis, descriptive statistics, data visualization, regression analysis, bootstrapping.        
+**Skills:** Data cleaning, exploratory analysis, data analysis, descriptive statistics, data visualization, regression analysis, bootstrapping, correlation analysis.          
 **Technology:** R, R-Studio, R Libraries
 
 
