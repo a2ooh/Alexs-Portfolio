@@ -14,17 +14,19 @@ If you would like to contact me, the best way is to reach me is through my [Link
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
 
 ##### [Analysis of BTC and ETH Price Changes](https://github.com/alejandroarellano1/Alexs-Portfolio/blob/main/BTC_ETH_Prices_Analysis.ipynb)
-**Description:** The dataa was obtaine through Kaggle.com and contains 365 observations where each observation represents a prices for each of the currencies at a given date.   
+**Description:** The data was obtained through Kaggle.com and contains 365 observations where each observation represents a prices for each of the currencies at a given date.   
 **Skills:** Data cleaning, exploratory analysis, data analysis, descriptive statistics, data visualization.  
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
 
 ##### [Prediciton of International Bittering Units of Beer using Box-Cox and Gamma](https://github.com/alejandroarellano1/Alexs-Portfolio/blob/main/Analysis%20of%20Beer%20IBU%20with%20Gamma%20and%20Box-Cox.pdf)
-- Predictive analysis of IBU value for specific beer profile based on Box-Cox transformation and Gamma regression
-- Completed in R
+**Description:** The data was obtained through Kaggle.com and is called Brewer's Friend Beer Recipes. It contains 69,702 observations and 23 variables where each observation represents a unique beer. The data was explored and cleaned understanding the shape of its distribution to be right skewed thus justifying the use of the Box-Cox Transformation and Gamma regression for further analysis. The models are then used to predict the IBU (International Bittering Units) or level of bitterness of a particular beer profile.   
+**Skills:** Data cleaning, exploratory analysis, data analysis, descriptive statistics, data visualization, regression analysis, predicitve analysis.    
+**Technology:** R, R-Studio, R Libraries
 
 ##### [Analysis of Worldwide Video Games Sales](https://github.com/alejandroarellano1/Alexs-Portfolio/blob/main/Analysis-of-Worldwide-Video-Game-Sales.pdf)
-- Analysis of worldwide video game sales by region, console, and genre. 
-- Completed in R
+**Description:** The data was obtained through Kaggle.com and contains 16,598 observations and 11 variables where each observation represents a unique video game given worldwide sales were greated that 100,000 copies in a given time period.     
+**Skills:** Data cleaning, exploratory analysis, data analysis, descriptive statistics, data visualization, regression analysis, bootstrapping.        
+**Technology:** R, R-Studio, R Libraries
 
 
 
