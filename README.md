@@ -14,8 +14,8 @@ If you would like to contact me, the best way is to reach me is through my [Link
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
 
 ##### [Analysis of BTC and ETH Price Changes](https://github.com/alejandroarellano1/Alexs-Portfolio/blob/main/BTC_ETH_Prices_Analysis.ipynb)
-**Description:** The dataa was obtaine through Kaggle.com and contains 365 observations where each observation represents a prices for each of the currencies at a given date. 
-**Skills:** Data cleaning, exploratory analysis, data analysis, descriptive statistics, data visualization.
+**Description:** The dataa was obtaine through Kaggle.com and contains 365 observations where each observation represents a prices for each of the currencies at a given date.   
+**Skills:** Data cleaning, exploratory analysis, data analysis, descriptive statistics, data visualization.  
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
 
 ##### [Prediciton of International Bittering Units of Beer using Box-Cox and Gamma](https://github.com/alejandroarellano1/Alexs-Portfolio/blob/main/Analysis%20of%20Beer%20IBU%20with%20Gamma%20and%20Box-Cox.pdf)
