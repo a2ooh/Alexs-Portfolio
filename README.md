@@ -10,20 +10,20 @@ If you would like to contact me, the best way is to reach me is through my [Link
 
 #### [Exploratory Analysis of Roller Coasters](https://github.com/a2ooh/Alexs-Portfolio/blob/main/Exploratory%20Analysis%20of%20Roller%20Coasters.ipynb)
 **Description:** The dataset was otained through Kaggle.com and contains 1087 observation and 56 variables as of 2022. Each observation represents a unique roller coaster and its respective attributes including coaster name, location, opening date, build material, speed, height, etc. 
-
 **Skills:** Data cleaning, exploratory analysis, data analysis, descriptive statistics, data visualization.
-
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
 
 ##### [Analysis of BTC and ETH Price Changes](https://github.com/alejandroarellano1/Alexs-Portfolio/blob/main/BTC_ETH_Prices_Analysis.ipynb)
-**Description:** Exploratory analysis, data cleaning, and visualization using Pandas, Numpy, Seaborn, and Matplotlib in Python. 
-
-##### [Analysis of Worldwide Video Games Sales](https://github.com/alejandroarellano1/Alexs-Portfolio/blob/main/Analysis-of-Worldwide-Video-Game-Sales.pdf)
-- Analysis of worldwide video game sales by region, console, and genre. 
-- Completed in R
+**Description:** The dataa was obtaine through Kaggle.com and contains 365 observations where each observation represents a prices for each of the currencies at a given date. 
+**Skills:** Data cleaning, exploratory analysis, data analysis, descriptive statistics, data visualization.
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
 
 ##### [Prediciton of International Bittering Units of Beer using Box-Cox and Gamma](https://github.com/alejandroarellano1/Alexs-Portfolio/blob/main/Analysis%20of%20Beer%20IBU%20with%20Gamma%20and%20Box-Cox.pdf)
 - Predictive analysis of IBU value for specific beer profile based on Box-Cox transformation and Gamma regression
+- Completed in R
+
+##### [Analysis of Worldwide Video Games Sales](https://github.com/alejandroarellano1/Alexs-Portfolio/blob/main/Analysis-of-Worldwide-Video-Game-Sales.pdf)
+- Analysis of worldwide video game sales by region, console, and genre. 
 - Completed in R
 
 
