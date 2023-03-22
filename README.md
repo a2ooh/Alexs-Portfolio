@@ -8,6 +8,12 @@ If you would like to contact me, the best way is to reach me is through my [Link
 
 ### Here are some of my projects: 
 
+
+#### [HR Analysis Dashboard](https://public.tableau.com/app/profile/alejandro.arellano4548/viz/HRDashboard_16794606703740/HRAnalyticsDash)
+**Description:** Dashboard created using HR data from Google. Interactive dashboard with insights on attrition or churn rate with respect to several other attributes such as age, field of education, and job satisfaction.   
+**Skills:** Understanding of datasets, data visualization, data relationships and feature understanding.   
+**Technology:** Tableau
+
 #### [Exploratory Analysis of Roller Coasters](https://github.com/a2ooh/Alexs-Portfolio/blob/main/Exploratory%20Analysis%20of%20Roller%20Coasters.ipynb)
 **Description:** The dataset was otained through Kaggle.com and contains 1087 observation and 56 variables as of 2022. Each observation represents a unique roller coaster and its respective attributes including coaster name, location, opening date, build material, speed, height, etc.   
 **Skills:** Data cleaning, exploratory analysis, data analysis, descriptive statistics, data visualization.  
@@ -25,8 +31,8 @@ If you would like to contact me, the best way is to reach me is through my [Link
 
 ##### [Analysis of Worldwide Video Games Sales](https://github.com/alejandroarellano1/Alexs-Portfolio/blob/main/Analysis-of-Worldwide-Video-Game-Sales.pdf)
 **Description:** The data was obtained through Kaggle.com and contains 16,598 observations and 11 variables where each observation represents a unique video game given worldwide sales were greated that 100,000 copies in a given time period.     
-**Skills:** Data cleaning, exploratory analysis, data analysis, descriptive statistics, data visualization, regression analysis, bootstrapping, correlation analysis.          
-**Technology:** R, R-Studio, R Libraries
+**Skills:** Data cleaning, exploratory analysis, data analysis, descriptive statistics, data visualization, regression analysis, bootstrapping, correlation analysis.   
+**Technology:** R, R-Studio, R Libraries   
 
 
 
