@@ -8,6 +8,10 @@ If you would like to contact me, the best way is to reach me is through my [Link
 
 ### Here are some of my projects: 
 
+#### [Sales Analysis Dashboard](https://public.tableau.com/app/profile/alejandro.arellano4548/viz/SalesDashboard_16795387737990/SalesDash)
+**Description:** Dashboard created using sales demonstration data from Google. Fully nteractive dashboard with insights on sales, profits, and qty sold by item, state, month, segment, and manager.   
+**Skills:** Understanding of datasets, data visualization, data relationships and feature understanding.   
+**Technology:** Tableau
 
 #### [HR Analysis Dashboard](https://public.tableau.com/app/profile/alejandro.arellano4548/viz/HRDashboard_16794606703740/HRAnalyticsDash)
 **Description:** Dashboard created using HR data from Google. Interactive dashboard with insights on attrition or churn rate with respect to several other attributes such as age, field of education, and job satisfaction.   
