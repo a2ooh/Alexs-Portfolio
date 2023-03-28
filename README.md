@@ -28,6 +28,11 @@ If you would like to contact me, the best way is to reach me is through my [Link
 **Skills:** Data cleaning, exploratory analysis, data analysis, descriptive statistics, data visualization.  
 **Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
 
+##### [Comparison of Regression Models](https://github.com/a2ooh/Alexs-Portfolio/blob/main/Comparison%20of%20Regression%20Models.pdf)
+**Description:** Exploratory comparison of over 20 regression models. Used the distribution or characteristics of data frames to determine the viability of using a particular regression or model for analysis. Also explored fitted models for each of the regressions for preditive analysis purposes.     
+**Skills:** Predictive analysis, regression, data analysis, feature understanding.   
+**Technology:** R, R-Studio
+
 ##### [Prediciton of International Bittering Units of Beer using Box-Cox and Gamma](https://github.com/alejandroarellano1/Alexs-Portfolio/blob/main/Analysis%20of%20Beer%20IBU%20with%20Gamma%20and%20Box-Cox.pdf)
 **Description:** The data was obtained through Kaggle.com and is called Brewer's Friend Beer Recipes. It contains 69,702 observations and 23 variables where each observation represents a unique beer. The data was explored and cleaned understanding the shape of its distribution to be right skewed thus justifying the use of the Box-Cox Transformation and Gamma regression for further analysis. The models are then used to predict the IBU (International Bittering Units) or level of bitterness of a particular beer profile.   
 **Skills:** Data cleaning, exploratory analysis, data analysis, descriptive statistics, data visualization, regression analysis, predicitve analysis.    
