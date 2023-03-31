@@ -18,6 +18,12 @@ If you would like to contact me, the best way is to reach me is through my [Link
 **Skills:** Understanding of datasets, data visualization, data relationships and feature understanding.   
 **Technology:** Tableau
 
+#### [Roller Coaster Analysis DashBoard](https://public.tableau.com/app/profile/alejandro.arellano4548/viz/RollerCoasterDash/RollerCoasterDash?publish=yes)
+**Description:** The dataset was otained through Kaggle.com and contains 1087 observation and 56 variables as of 2022. Each observation represents a unique roller coaster and its respective attributes including coaster name, location, opening date, build material, speed, height, etc. This dashboard is meant to accompany the analysis found below and uses as cleaned subset of the data.     
+**Skills:** Understanding of datasets, data visualization, data relationships and feature understanding.     
+**Technology:** Tableau
+
+
 #### [Exploratory Analysis of Roller Coasters](https://github.com/a2ooh/Alexs-Portfolio/blob/main/Exploratory%20Analysis%20of%20Roller%20Coasters.ipynb)
 **Description:** The dataset was otained through Kaggle.com and contains 1087 observation and 56 variables as of 2022. Each observation represents a unique roller coaster and its respective attributes including coaster name, location, opening date, build material, speed, height, etc.   
 **Skills:** Data cleaning, exploratory analysis, data analysis, descriptive statistics, data visualization.  
