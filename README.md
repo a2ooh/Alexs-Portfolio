@@ -33,7 +33,7 @@ If you would like to contact me, the best way is to reach me is through my [Link
 **Skills:** Understanding of datasets, data relationships, and feature understanding.         
 **Technology:** SQL, MS SQL Server, VS Code  
 
-#### [Covid-19 Deaths and Vaccination Analysis in SQL]([https://github.com/a2ooh/Alexs-Portfolio/blob/main/Kaggle%20Car%20Sales%20Analysis.sql](https://github.com/a2ooh/Alexs-Portfolio/blob/main/Covid%20Deaths%20and%20Vaccinations%20Analysis.sql))  
+#### [Covid-19 Deaths and Vaccination Analysis in SQL](https://github.com/a2ooh/Alexs-Portfolio/blob/main/Covid%20Deaths%20and%20Vaccinations%20Analysis.sql)  
 **Description:** The dataset was otained through Kaggle.com and contains data on car sales by region and year. It also contains by-order information such as vehicle type, the status of the sale, and other identification data from each of the orders.        
 **Skills:** Understanding of datasets, data relationships, and feature understanding.       
 **Technology:** SQL, MS SQL Server, VS Code  
