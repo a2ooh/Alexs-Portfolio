@@ -38,8 +38,6 @@ If you would like to contact me, the best way is to reach me is through my [Link
 **Skills:** Understanding of datasets, data relationships, and feature understanding.       
 **Technology:** SQL, MS SQL Server, VS Code  
 
-https://github.com/a2ooh/Alexs-Portfolio/blob/main/Covid%20Deaths%20and%20Vaccinations%20Analysis.sql
-
 #### [Exploratory Analysis of Roller Coasters](https://github.com/a2ooh/Alexs-Portfolio/blob/main/Exploratory%20Analysis%20of%20Roller%20Coasters.ipynb)
 **Description:** The dataset was otained through Kaggle.com and contains 1087 observation and 56 variables as of 2022. Each observation represents a unique roller coaster and its respective attributes including coaster name, location, opening date, build material, speed, height, etc.   
 **Skills:** Data cleaning, exploratory analysis, data analysis, descriptive statistics, data visualization.  
