@@ -16,7 +16,12 @@ If you would like to contact me, the best way is to reach me is through my [Link
 #### [HR Analysis Dashboard](https://public.tableau.com/app/profile/alejandro.arellano4548/viz/HRDashboard_16794606703740/HRAnalyticsDash)
 **Description:** Dashboard created using HR data from Google. Interactive dashboard with insights on attrition or churn rate with respect to several other attributes such as age, field of education, and job satisfaction.   
 **Skills:** Understanding of datasets, data visualization, data relationships and feature understanding.   
-**Technology:** Tableau
+**Technology:** Tableau  
+
+#### [Exploratory Analysis of Roller Coasters](https://github.com/a2ooh/Alexs-Portfolio/blob/main/Exploratory%20Analysis%20of%20Roller%20Coasters.ipynb)
+**Description:** The dataset was otained through Kaggle.com and contains 1087 observation and 56 variables as of 2022. Each observation represents a unique roller coaster and its respective attributes including coaster name, location, opening date, build material, speed, height, etc.   
+**Skills:** Data cleaning, exploratory analysis, data analysis, descriptive statistics, data visualization.  
+**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.  
 
 #### [Roller Coaster Analysis DashBoard](https://public.tableau.com/app/profile/alejandro.arellano4548/viz/RollerCoasterDash/RollerCoasterDash?publish=yes)
 **Description:** The dataset was otained through Kaggle.com and contains 1087 observation and 56 variables as of 2022. Each observation represents a unique roller coaster and its respective attributes including coaster name, location, opening date, build material, speed, height, etc. This dashboard is meant to accompany the analysis found below and uses as cleaned subset of the data.     
@@ -37,11 +42,6 @@ If you would like to contact me, the best way is to reach me is through my [Link
 **Description:** The dataset was otained through Kaggle.com and contains data on car sales by region and year. It also contains by-order information such as vehicle type, the status of the sale, and other identification data from each of the orders.        
 **Skills:** Understanding of datasets, data relationships, and feature understanding.       
 **Technology:** SQL, MS SQL Server, VS Code  
-
-#### [Exploratory Analysis of Roller Coasters](https://github.com/a2ooh/Alexs-Portfolio/blob/main/Exploratory%20Analysis%20of%20Roller%20Coasters.ipynb)
-**Description:** The dataset was otained through Kaggle.com and contains 1087 observation and 56 variables as of 2022. Each observation represents a unique roller coaster and its respective attributes including coaster name, location, opening date, build material, speed, height, etc.   
-**Skills:** Data cleaning, exploratory analysis, data analysis, descriptive statistics, data visualization.  
-**Technology:** Python, Pandas, Numpy, Seaborn, Matplotlib.
 
 ##### [Analysis of BTC and ETH Price Changes](https://github.com/alejandroarellano1/Alexs-Portfolio/blob/main/BTC_ETH_Prices_Analysis.ipynb)
 **Description:** The data was obtained through Kaggle.com and contains 365 observations where each observation represents a prices for each of the currencies at a given date.   
