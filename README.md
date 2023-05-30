@@ -33,11 +33,10 @@ If you would like to contact me, the best way is to reach me is through my [Link
 **Skills:** Understanding of datasets, data relationships, and feature understanding.         
 **Technology:** SQL, MS SQL Server, VS Code  
 
-#### [SQL Car Sales Exploration]([https://github.com/a2ooh/Alexs-Portfolio/blob/main/Kaggle%20Car%20Sales%20Analysis.sql](https://github.com/a2ooh/Alexs-Portfolio/blob/main/Covid%20Deaths%20and%20Vaccinations%20Analysis.sql))
+#### [Covid-19 Deaths and Vaccination Analysis in SQL]([https://github.com/a2ooh/Alexs-Portfolio/blob/main/Kaggle%20Car%20Sales%20Analysis.sql](https://github.com/a2ooh/Alexs-Portfolio/blob/main/Covid%20Deaths%20and%20Vaccinations%20Analysis.sql))
 **Description:** The dataset was otained through Kaggle.com and contains data on car sales by region and year. It also contains by-order information such as vehicle type, the status of the sale, and other identification data from each of the orders.        
 **Skills:** Understanding of datasets, data relationships, and feature understanding.       
-**Technology:** SQL, MS SQL Server, VS Code
-
+**Technology:** SQL, MS SQL Server, VS Code  
 
 #### [Exploratory Analysis of Roller Coasters](https://github.com/a2ooh/Alexs-Portfolio/blob/main/Exploratory%20Analysis%20of%20Roller%20Coasters.ipynb)
 **Description:** The dataset was otained through Kaggle.com and contains 1087 observation and 56 variables as of 2022. Each observation represents a unique roller coaster and its respective attributes including coaster name, location, opening date, build material, speed, height, etc.   
